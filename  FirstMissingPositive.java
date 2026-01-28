@@ -1,4 +1,3 @@
-https://leetcode.com/problems/first-missing-positive/submissions/1884715911/
 class Solution {
     public int firstMissingPositive(int[] nums) {
         //correct it position 
