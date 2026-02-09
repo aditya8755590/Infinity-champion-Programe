@@ -1,4 +1,5 @@
 //2073. Time Needed to Buy Tickets
+import java.util.*;
 class Solution {
     public int timeRequiredToBuy(int[] t, int k) {
         Queue<Integer> q=new LinkedList<>();
