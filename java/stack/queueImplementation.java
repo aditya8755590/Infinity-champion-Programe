@@ -1,0 +1,2 @@
+javac reverseStack.java
+java reverseStack

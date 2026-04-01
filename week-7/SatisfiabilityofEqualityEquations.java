@@ -5,7 +5,7 @@ class Solution {
     public boolean equationsPossible(String[] equations) {
         parent = new int[26];
         rank = new int[26];
-
+    
         for (int i = 0; i < 26; i++) {
             parent[i] = i;
             rank[i] = 1;
